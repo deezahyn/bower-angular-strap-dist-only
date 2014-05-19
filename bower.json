@@ -6,7 +6,10 @@
     "chris <stylenclass@live.com>"
   ],
   "description": "angular strap dist only",
-  "main": "dist",
+  "main": [
+    "dist/angular-strap.min.js",
+    "dist/angular-strap.tpl.min.js"
+  ],
   "keywords": [
     "angular",
     "strap",
