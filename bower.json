@@ -1,0 +1,25 @@
+{
+  "name": "bower-angular-strap-dist-only",
+  "version": "2.0.2",
+  "homepage": "https://github.com/stylenclass/bower-angular-strap-dist-only",
+  "authors": [
+    "chris <stylenclass@live.com>"
+  ],
+  "description": "angular strap dist only",
+  "main": "dist",
+  "keywords": [
+    "angular",
+    "strap",
+    "dist",
+    "only"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
